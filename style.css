@@ -1,0 +1,36 @@
+h1{
+    color:purple  
+   }
+   h2{
+       color:darkblue
+   }
+
+  /* *{
+border:solid
+}*/
+
+.grid{
+background-color: black;
+display:flex;
+justify-content:space-evenly;
+flex-wrap: wrap;
+}
+
+.footer{
+    background-color: pink;
+    display:flex;
+    justify-content: flex-end;
+
+}
+
+.header{
+    background-color: green;
+    display:flex;
+    justify-content: space-between;
+} 
+
+p{
+    color:violet;
+text-align: center; 
+}
+
